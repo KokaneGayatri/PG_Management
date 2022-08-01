@@ -1,0 +1,11 @@
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    
+    }
+
+    .card-img-top{
+        height: 200px;
+        width: 285px;
+    }
